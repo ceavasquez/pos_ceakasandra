@@ -11,7 +11,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>| POS_KK | Barcode System |</title>
+  <title>| POS_ | Barcode System |</title>
 
 </head>
 
@@ -262,7 +262,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <a href="index3.html" class="brand-link">
 
       <img src="../dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">POS_KK Barcode</span>
+      <span class="brand-text font-weight-light">POS_ Barcode</span>
 
     </a>
 
